@@ -36,9 +36,4 @@ public class LoadCash {
 	public void setBalance(double balance) {
 		this.balance = balance;
 	}
-	
-	@Override
-	public String toString() {
-		return "Denomination	Number	 Value\n 2000	* 	" + twoth +" = 	"+twoth*2000 + "\n 500	* 	" + fivehun+" = 	"+fivehun*500 + "\n 100	*	" + hundred+" = 	 " +hundred*100+;
-	}
 }
